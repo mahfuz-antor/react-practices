@@ -7,13 +7,13 @@
     },
     {
       "id": 2,
-      "name": "Batman",
-      "alterEgo": "Bruce Wayne"
+      "name": "Superman",
+      "alterEgo": "clark ken"
     },
     {
       "id": 3,
-      "name": "Batman",
-      "alterEgo": "Bruce Wayne"
+      "name": "Wonder Woman",
+      "alterEgo": "Princes Diana"
     }
   ]
 }
